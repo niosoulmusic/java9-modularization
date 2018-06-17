@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/academy.riccio.common/academy.riccio.common.iml" filepath="$PROJECT_DIR$/academy.riccio.common/academy.riccio.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy.riccio.db/academy.riccio.db.iml" filepath="$PROJECT_DIR$/academy.riccio.db/academy.riccio.db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy.riccio.ui/academy.riccio.ui.iml" filepath="$PROJECT_DIR$/academy.riccio.ui/academy.riccio.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/music-ui-start.iml" filepath="$PROJECT_DIR$/music-ui-start.iml" />
+    </modules>
+  </component>
+</project>
